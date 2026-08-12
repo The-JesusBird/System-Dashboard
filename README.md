@@ -4,4 +4,4 @@
 3. Run the .exe
 
 
-This is open source, however is under default copyright. See (https://www.copyright.com.au/about-copyright/international-copyright/) for more details
+This is under default copyright. See (https://www.copyright.com.au/about-copyright/international-copyright/) for more details
