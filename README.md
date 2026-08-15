@@ -2,6 +2,6 @@
 1. Download as ZIP
 2. Unzip the file
 3. Run the .exe
-
+(For Windows only)
 
 This is under default copyright. See (https://www.copyright.com.au/about-copyright/international-copyright/) for more details
